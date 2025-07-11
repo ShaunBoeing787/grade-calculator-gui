@@ -2,7 +2,7 @@
 
 A sleek and user-friendly **Java Swing GUI** app that calculates a student’s total marks, average, and final grade (A/B/C/Fail) based on three subject scores.
 
-![App Screenshot](./Screenshot 2025-07-11 231108.png)
+![App Screenshot](./screenshot.png)
 
 ---
 
